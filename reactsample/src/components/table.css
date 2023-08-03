@@ -1,0 +1,30 @@
+table,th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+table{
+    margin-left: 2cm;
+    border-collapse: collapse;
+    
+}
+.table1{
+    width: 25cm;
+    background-color: rgb(230, 221, 222);
+    margin-left: 250px;
+    margin-right: auto;
+    border: 3px solid rgb(157, 74, 156);
+    /* margin-top: 40px; */
+}
+
+table th{
+    background-color: palevioletred;
+    color: white;
+}
+
+.table  table,th,td {
+    border: 2px solid palevioletred;
+}
